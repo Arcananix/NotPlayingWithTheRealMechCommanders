@@ -1,0 +1,18 @@
+﻿{
+  "Name": "NotPlayingWithTheRealMechCommanders",
+  "Enabled": true,
+
+  "Description": "Removes Career button for offline Roguetech play",
+  "Author": "Arcanan",
+  "Website": "https://github.com/Arcananix",
+
+  "Version": "1.0.0",
+  "PackagedOn": "2018-12-31",
+
+  "DLL": "NotPlayingWithTheRealMechCommanders.dll",
+  "DLLEntryPoint": "NotPlayingWithTheRealMechCommanders.Main.Init",
+  "DependsOn": [],
+  "ConflictsWith": [ "RogueTech Enhanced", "RogueTech Enhanced Clans", "InnerSphereMap" ],
+
+  "Settings": {}
+}
